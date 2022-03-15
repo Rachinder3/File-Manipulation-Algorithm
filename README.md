@@ -53,6 +53,11 @@ All the different files are copied into staging folder when object of File Manip
 
 
 
+![App Screenshot](Screenshots/input_files.PNG)
+
+#### Input File Paths
+
+
 
 
 
